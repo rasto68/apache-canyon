@@ -21,3 +21,5 @@ The first alien waves are relatively easy to destroy, but as you travel further 
 Intelligence reports suggest that a "super" alien has been spotted further down the canyon, details are sketchy so watch out!
 
 [Play Apache Canyon](https://0xc0de6502.github.io/electroniq/?dfs&autoboot&disk0=https://raw.githubusercontent.com/rasto68/apache-canyon/main/apache.ssd)
+
+Copyright &copy; 2024 Rob Stone
