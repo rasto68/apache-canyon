@@ -4,8 +4,6 @@
 
 A vertically scrolling shootem up for the Acorn Electron - Work In Progress!!!
 
-Play in your browser via the wonders of [Electroniq](https://github.com/0xC0DE6502/electroniq/blob/main/README.md) from 0xC0DE
-
 **Instructions**
 
 Fly your Apache gunship helicopter up the canyon destroying the invading aliens, your auto-pilot will stop you from hitting the canyon walls. Your gunship is armed with an unlimited supply of "lazer bullets" and a limited number of "homing missiles" - both of these use technology captured from the invaders and they are able to penetrate the enemies shields to allow them to be destroyed. Your gunship also benefits from a shield that uses similar alien technology, this provides limited protection from alien projectiles or ships crashing into you.
@@ -20,6 +18,6 @@ The first alien waves are relatively easy to destroy, but as you travel further 
 
 Intelligence reports suggest that a "super" alien has been spotted further down the canyon, details are sketchy so watch out!
 
-[Play Apache Canyon](https://0xc0de6502.github.io/electroniq/?dfs&autoboot&disk0=https://raw.githubusercontent.com/rasto68/apache-canyon/main/apache.ssd)
+[Play Apache Canyon](https://0xc0de6502.github.io/electroniq/?dfs&autoboot&disk0=https://raw.githubusercontent.com/rasto68/apache-canyon/main/apache.ssd) in your browser via the wonders of [Electroniq](https://github.com/0xC0DE6502/electroniq/blob/main/README.md) from 0xC0DE
 
 Copyright &copy; 2024 Rob Stone
