@@ -16,8 +16,10 @@ You have an un-limited supply of "laser bullets" using technology captured from 
 
 Your fuel, shields and missiles will run down as you progress - you will be able to re-supply each of these. Fuel re-supplies appear when you have travelled up the valley so keep moving! Shield and missile re-supplies will appear when your shield and missiles run low but only if you have destroyed enough enemies first - nothing is free in life.
 
+You will be awarded an extra gunship each time you score 10000 points.
+
 The first alien waves are relatively easy to destroy, but as you travel further up the canyon your enemies will be harder to destroy and will also be more lethal - how long can you last?
 
-You will be awarded an extra gunship each time you score 10000 points.
+Intelligence reports suggest that a "super" alien has been spotted further down the canyon, details are sketchy so watch out!
 
 [Play Apache Canyon](https://0xc0de6502.github.io/electroniq/?dfs&autoboot&disk0=https://raw.githubusercontent.com/rasto68/apache-canyon/main/apache.ssd)
