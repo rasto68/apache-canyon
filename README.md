@@ -2,7 +2,9 @@
 
 ![Screenshot](screenshot.png?raw=true "Apache Canyon")
 
-A vertically scrolling shootem up for the Acorn Electron - Work In Progress!!!
+A vertically scrolling shootem up for the Acorn Electron and BBC microcomputers
+
+*Work In Progress!!!*
 
 **Instructions**
 
@@ -21,3 +23,13 @@ Intelligence reports suggest that a "super" alien has been spotted further down 
 [Play Apache Canyon](https://0xc0de6502.github.io/electroniq/?dfs&autoboot&disk0=https://raw.githubusercontent.com/rasto68/apache-canyon/main/apache.ssd) in your browser via the wonders of [Electroniq](https://github.com/0xC0DE6502/electroniq/blob/main/README.md) from 0xC0DE
 
 Copyright &copy; 2025 Rob Stone
+
+## Specifications
+
+- multi platform, runs on both the Electron & the BBC
+- 100% machine code
+- 50fps guaranteed
+  - double buffered for flicker free game play
+  - software scrolling
+  - maximum of 5 enemies at a time + 4 player bullets & 3 enemy bullets
+- uses just about every available byte of memory, OS disabled
