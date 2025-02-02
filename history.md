@@ -27,3 +27,5 @@ Eventually (and sadly) I outgrew the Electron, by 1987 16 bit computers had arri
 This also coincided with me starting my first job as an apprentice software engineer, I had decided that I didn't want to go to university after 6th form and I was very lucky to have accesss to an engieering apprenticeship at a local company. Having a job (not hugely well payed) meant that I was able to buy an Amiga 500, with my Electron (and everything that went with it) being sold to a friend of my brother.
 
 With the Amiga, I also bought a Philips colour monitor so that I was able to experience its graphical capabilities in full. As part of my apprenticeship I was undertaking an HNC in software engineering and was learning a new (to me) programing language called C. Luckily I had access to Lattice C on my Amiga so was able to accelerate my exploration of its capabilities at the same time as studying for my HNC. Various Amiga hardware reference manuals were purchased allowing me to start exploring the wonderful custom hardware that the Amiga supported and soon I (with a group of friends) was coding Amiga demos.
+
+TBC....
