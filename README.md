@@ -32,4 +32,6 @@ Copyright &copy; 2025 Rob Stone
   - double buffered for flicker free game play
   - software scrolling
   - maximum of 5 enemies at a time + 4 player bullets & 3 enemy bullets
+  - 4 frames of animiation for enemy sprites
+  - 5 different optimized sprite routines
 - uses just about every available byte of memory, OS disabled
