@@ -24,6 +24,8 @@ Intelligence reports suggest that a "super" alien has been spotted further down 
 
 Copyright &copy; 2025 Rob Stone
 
+Follow me on Bluesky: @rasto1968.bsky.social
+
 ## Specifications
 
 - multi platform, runs on both the Electron & the BBC
