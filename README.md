@@ -4,7 +4,7 @@
 
 A vertically scrolling shootem up for the Acorn Electron and BBC microcomputers
 
-v1.3
+v1.4
 
 **Instructions**
 
