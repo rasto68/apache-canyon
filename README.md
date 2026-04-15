@@ -22,7 +22,7 @@ Intelligence reports suggest that a "super" alien has been spotted further down 
 
 [Play Apache Canyon](https://0xc0de6502.github.io/electroniq/?dfs&autoboot&disk0=https://raw.githubusercontent.com/rasto68/apache-canyon/main/apache.ssd) in your browser via the wonders of [Electroniq](https://github.com/0xC0DE6502/electroniq/blob/main/README.md) from 0xC0DE
 
-You can also play the (exactly the same game) on the BBC Micro via the wonderfull JSBeeb [Play Apache Canyon BBC Version](https://bbcmicro.co.uk/jsbeeb/play.php?autoboot&disc=https://bbcmicro.co.uk/gameimg/discs/4511/Disc183-ApacheCanyonCB.ssd&noseek)
+You can also play the (exactly the same game) on the BBC Micro via the wonderfull JSBeeb [Play Apache Canyon BBC Version](https://bbcmicro.co.uk/jsbeeb/play.php?autoboot&disc=https://bbcmicro.co.uk/gameimg/discs/4511/Disc999-apache-v1.5.ssd&noseek)
 
 Copyright &copy; 2025 Rob Stone
 
